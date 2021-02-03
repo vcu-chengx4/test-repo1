@@ -6,4 +6,4 @@
 
 ![Super-Linter](https://github.com/vcu-chfauerbach/test-repo1/workflows/Super-Linter/badge.svg)
 
-Adding a change for the live demo in class.
+Homework - I like Py black because it does the work for you because I'm lazy like that...
